@@ -1,0 +1,3 @@
+users:
+  - method: firstLoadFixPirce
+    post: /api/v1/bitbuy/fixprice/common/firstLoadFixPirce
